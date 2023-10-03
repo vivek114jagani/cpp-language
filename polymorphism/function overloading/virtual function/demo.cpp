@@ -4,7 +4,7 @@ using namespace std;
 class A
 {
     public:
-        virtual void display()  // virtual key_word is also diclared by base class
+        virtual void display()  // virtual key_word is also declared by base class
         {
             cout << "BASE CLASS is invoke" << endl;
         }
