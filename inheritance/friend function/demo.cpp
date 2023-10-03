@@ -4,7 +4,7 @@ using namespace std;
 class Box
 {
 private:
-    int length=0;
+    int length = 0;
 
 public:
     // Box() : length(0) {}
